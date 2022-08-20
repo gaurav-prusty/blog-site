@@ -1,2 +1,1 @@
-# blog-site
- A blogging Website.
+A server based website where users can add blog posts and community can view them.
