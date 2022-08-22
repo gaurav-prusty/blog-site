@@ -12,8 +12,11 @@
     <a href="/posts/<%=post.title%>">Read More</a>
     </p>
 
-
     <% }) %>
+
+    <form action="/compose" method="get">
+      <button type="submit" class="btn-primary">Compose</button>
+    </form>
 
 
 <%- include("partials/footer"); -%>
